@@ -13,7 +13,10 @@ namespace MidtermExam.Prob02
         public LinkedList<int> SortAscending(LinkedList<int> list)
         {
             // TODO: Implement sorting algorithm for LinkedList<int> (Ascending)
+            
+            LinkedList<int> sortedList = new LinkedList<int>();
             return list;
+            
         }
 
         /// <summary>
